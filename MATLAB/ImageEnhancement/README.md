@@ -4,6 +4,6 @@ Image Enhancement
 
 *add info*
 
-![Input](https://github.com/zKarp/samples/blob/master/MATLAB/ImageEnhancement/theImage.png "Input Image")
+![Input](https://github.com/zKarp/samples/MATLAB/ImageEnhancement/theImage.png "Input Image")
 
-![Result](https://github.com/zKarp/samples/blob/master/MATLAB/ImageEnhancement/Results.PNG "Result")
+![Result](https://github.com/zKarp/samples/MATLAB/ImageEnhancement/Results.PNG "Result")
