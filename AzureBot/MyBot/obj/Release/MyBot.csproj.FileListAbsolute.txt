@@ -1,0 +1,24 @@
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\bin\Release\MyBot.dll
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\bin\Release\MyBot.pdb
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\bin\Release\Compete.Bot.dll
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.dll
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.xml
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\obj\Release\MyBot.dll
+C:\Users\zKarp\Desktop\RPA Competiition\RPAClient\MyBot\MyBot\obj\Release\MyBot.pdb
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\bin\Release\MyBot.dll
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\bin\Release\MyBot.pdb
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\bin\Release\Compete.Bot.dll
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.dll
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.xml
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\obj\Release\MyBot.dll
+C:\Users\zKarp\Desktop\RPA Competiition - Copy - Copy\RPAClient\MyBot\MyBot\obj\Release\MyBot.pdb
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\bin\Release\MyBot.dll
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\bin\Release\MyBot.pdb
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\bin\Release\Compete.Bot.dll
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.dll
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\bin\Release\RockPaperScissorsPro.RPA.xml
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\obj\Release\MyBot.dll
+C:\Users\zKarp\Desktop\Golden Bot\RPAClient\MyBot\MyBot\obj\Release\MyBot.pdb
